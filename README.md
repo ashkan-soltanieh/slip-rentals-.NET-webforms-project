@@ -10,4 +10,4 @@ In this solution a web-enabled application that allows customers the ability to 
 4. As a registered customer, I should be able to view all my leases so that I know which slips I have rented before.
 
 ### Snapshots
-![Snapshot of InlandMarina Webforms project](snapshot.PNG)
+![Snapshot of InlandMarina Webforms project](snapshot.png)
