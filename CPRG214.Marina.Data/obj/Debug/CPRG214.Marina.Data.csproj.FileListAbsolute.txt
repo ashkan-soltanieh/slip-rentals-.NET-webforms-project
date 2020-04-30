@@ -1,0 +1,12 @@
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\CPRG214.Marina.Data.dll.config
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\CPRG214.Marina.Data.dll
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\CPRG214.Marina.Data.pdb
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\obj\Debug\CPRG214.Marina.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\obj\Debug\CPRG214.Marina.Data.csproj.CopyComplete
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\obj\Debug\CPRG214.Marina.Data.dll
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\obj\Debug\CPRG214.Marina.Data.pdb
+C:\Users\Ashkan\source\repos\CPRG214.Marina\CPRG214.Marina.Data\obj\Debug\CPRG214.Marina.Data.csprojAssemblyReference.cache

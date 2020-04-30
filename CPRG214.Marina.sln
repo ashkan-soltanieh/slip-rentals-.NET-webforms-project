@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG214.Marina.App", "CPRG214.Marina.App\CPRG214.Marina.App.csproj", "{A1097AE3-B25B-434E-97BA-D1B87640ACDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG214.Marina.Data", "CPRG214.Marina.Data\CPRG214.Marina.Data.csproj", "{7BD760D2-DA3A-40D6-9E67-32E72730A7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1097AE3-B25B-434E-97BA-D1B87640ACDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1097AE3-B25B-434E-97BA-D1B87640ACDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1097AE3-B25B-434E-97BA-D1B87640ACDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1097AE3-B25B-434E-97BA-D1B87640ACDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD760D2-DA3A-40D6-9E67-32E72730A7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD760D2-DA3A-40D6-9E67-32E72730A7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD760D2-DA3A-40D6-9E67-32E72730A7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD760D2-DA3A-40D6-9E67-32E72730A7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2083B7B-2591-46C4-A172-08F6326EDE9E}
+	EndGlobalSection
+EndGlobal
